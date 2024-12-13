@@ -1,5 +1,0 @@
-require("plugins.remap")
-require("plugins.set")
-require("plugins.nvim-tree")
-require("plugins.comment")
-require("plugins.toggleterm")
